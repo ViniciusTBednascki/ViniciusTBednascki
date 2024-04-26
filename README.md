@@ -28,8 +28,9 @@ Dynamic and results-driven professional with 5 years of experience in programmin
 
 ## Projects: 
 
-* [Casual-Markdown](https://github.com/casualwriter/powerpage) - a lightweight markdown parser
-* [Powerpage](https://github.com/casualwriter/powerpage) - a lightweight browser for html applications
+* [Angular Material](https://github.com/ViniciusTBednascki/exercicioAngulaMaterial) - A simple site using Angular Material
+* [LocalStorage Project](https://github.com/ViniciusTBednascki/ProjetoLocalStorage) - A simple site project using local storage
+* [Linkedin Automation](https://github.com/ViniciusTBednascki/LinkedinMessageAutomation) - A Linkedin messager automation
 
 ## Education & Qualifications
 
