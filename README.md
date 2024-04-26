@@ -1,10 +1,10 @@
-<img style="float:right;border-radius:50%;width:70px;padding:6px" src="https://github.com/ViniciusTBednascki/ViniciusTBednascki/assets/58485976/466f268f-7f89-4308-9080-70b301ece75c" />
+<img style="float:right;border-radius:50%;width:70px;padding:6px" src="[https://github.com/ViniciusTBednascki/ViniciusTBednascki/assets/58485976/466f268f-7f89-4308-9080-70b301ece75c](https://media.licdn.com/dms/image/D4D03AQHLYK-gJT3N_w/profile-displayphoto-shrink_800_800/0/1687917341917?e=1719446400&v=beta&t=u9aOJ-YtjKJ7LwfAsBF_vhRHIxhx3-lhPRwGyYWkmsw)" />
 
 <span style="float:right;padding:6px"> 
-  someone@email.com <br> mobile: +852 xxxxxxxx <br> Nationality: Chinese
+  <BR> viniciust.bednascki@gmail.com <br> mobile: +55 41 98763-8468 <br> Nationality: Brazilian
 </span>
 
-# Casualwriter  
+# Software Developer  
 
 ## Executive Summary
 
