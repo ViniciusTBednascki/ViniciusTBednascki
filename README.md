@@ -1,16 +1,16 @@
-### Hi there 👋
+<div id="hd">
+			<div class="yui-gc">
+				<div class="yui-u first">
+					<h1>Jonathan Doe</h1>
+					<h2>Web Designer, Director</h2>
+				</div>
 
-<!--
-**ViniciusTBednascki/ViniciusTBednascki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+				<div class="yui-u">
+					<div class="contact-info">
+						<h3><a id="pdf" href="#">Download PDF</a></h3>
+						<h3><a href="mailto:name@yourdomain.com">name@yourdomain.com</a></h3>
+						<h3>(313) - 867-5309</h3>
+					</div><!--// .contact-info -->
+				</div>
+			</div>
+		</div><
