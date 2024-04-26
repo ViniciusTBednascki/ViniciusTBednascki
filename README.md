@@ -1,60 +1,61 @@
-<div id="hd">
-	<div class="yui-gc">
-		<div class="yui-u first">
-			<h1>Jonathan Doe</h1>
-			<h2>Web Designer, Director</h2>
-		</div>
-		<div class="yui-u">
-			<div class="contact-info">
-				<h3><a id="pdf" href="#">Download PDF</a></h3>
-				<h3><a href="mailto:name@yourdomain.com">name@yourdomain.com</a></h3>
-				<h3>(313) - 867-5309</h3>
-			</div>
-		</div>
-	</div>
-</div>
-
-<style>
-.msg { padding: 10px; background: #222; position: relative; }
-.msg h1 { color: #fff;  }
-.msg a { margin-left: 20px; background: #408814; color: white; padding: 4px 8px; text-decoration: none; }
-.msg a:hover { background: #266400; }
-body { font-family: Georgia; color: #444; }
-#inner { padding: 10px 80px; margin: 80px auto; background: #f5f5f5; border: solid #666; border-width: 8px 0 2px 0; }
-.yui-gf { margin-bottom: 2em; padding-bottom: 2em; border-bottom: 1px solid #ccc; }
-#hd { margin: 2.5em 0 3em 0; padding-bottom: 1.5em; border-bottom: 1px solid #ccc }
-#hd h2 { text-transform: uppercase; letter-spacing: 2px; }
-#bd, #ft { margin-bottom: 2em; }
-#ft { padding: 1em 0 5em 0; font-size: 92%; border-top: 1px solid #ccc; text-align: center; }
-#ft p { margin-bottom: 0; text-align: center;   }
-#hd h1 { font-size: 48px; text-transform: uppercase; letter-spacing: 3px; }
-h2 { font-size: 152% }
-h3, h4 { font-size: 122%; }
-h1, h2, h3, h4 { color: #333; }
-p { font-size: 100%; line-height: 18px; padding-right: 3em; }
-a { color: #990003 }
-a:hover { text-decoration: none; }
-strong { font-weight: bold; }
-li { line-height: 24px; border-bottom: 1px solid #ccc; }
-p.enlarge { font-size: 144%; padding-right: 6.5em; line-height: 24px; }
-p.enlarge span { color: #000 }
-.contact-info { margin-top: 7px; }
-.first h2 { font-style: italic; }
-.last { border-bottom: 0 }
-a#pdf { display: block; float: left; background: #666; color: white; padding: 6px 50px 6px 12px; margin-bottom: 6px; text-decoration: none;  }
-a#pdf:hover { background: #222; }
-.job { position: relative; margin-bottom: 1em; padding-bottom: 1em; border-bottom: 1px solid #ccc; }
-.job h4 { position: absolute; top: 0.35em; right: 0 }
-.job p { margin: 0.75em 0 3em 0; }
-.last { border: none; }
-.skills-list {  }
-.skills-list ul { margin: 0; }
-.skills-list li { margin: 3px 0; padding: 3px 0; }
-.skills-list li span { font-size: 152%; display: block; margin-bottom: -2px; padding: 0 }
-.talent { width: 32%; float: left }
-.talent h2 { margin-bottom: 6px; }
-#srt-ttab { margin-bottom: 100px; text-align: center;  }
-#srt-ttab img.last { margin-top: 20px }
-.yui-gf .yui-u{width:80.2%;}
-.yui-gf div.first{width:12.3%;}
+<!DOCTYPE html>
+<title>Resume</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/casualwriter/casual-markdown/dist/casual-markdown.css">
+<script src="https://cdn.jsdelivr.net/gh/casualwriter/casual-markdown/dist/casual-markdown.js"></script>
+<style>  
+  body { line-height:1.5; margin:auto; padding:3px; max-width:1024px; display:none; FONT-FAMILY:"Segoe UI",ARIAL; }
+  h1  { font-size:200%; padding:16px; border:1px solid lightgrey; BACKGROUND:#f0f0f0; }
+  h2  { border-bottom:1px solid grey; padding:2px }
 </style>
+<body onload="document.body.innerHTML=md.html(document.body.innerHTML); document.body.style.display='block';">
+<!--======= COPY ABOVE CODE AS HEADER, THEN FOLLOW WITH RESUME CONTENT IN MARKDOWN FORMAT =========-->
+
+<img style="float:right;border-radius:50%;width:70px;padding:6px" src="avatar-man.jpg" />
+
+<span style="float:right;padding:6px"> 
+  someone@email.com <br> mobile: +852 xxxxxxxx <br> Nationality: Chinese
+</span>
+
+# Casualwriter  
+
+## Executive Summary
+
+* 10 years project/team management experience
+* PMP, OCP, AWS Certification
+* Hand-on experience in oracle database
+* Proficient in JavaScript, Java, Powerbuilder
+
+## Working Experience
+
+#### Current Company (Project Manager, 2015/08 - present) 
+
+* Lead team of 10 to oversee conception, requirement gathering, documentation and rollout.
+* Conduct troubleshooting, analysis and support. Gather user feedback, document bugs and change requests.
+
+#### Second Company (System Analyst, 2011/06 - 2015/07) 
+
+* Led team of 5 for application development
+* Coordinated with developers, support staff and vendors across Hong Kong, China, Taiwan
+
+#### My first Company (Analyst Programmer, 2005/01 - 2011/05)
+
+* Develop multiple applications using Javascript, Java, PHP, Powerbuilder, Oracle
+
+## Projects
+
+* [Casual-Markdown](https://github.com/casualwriter/powerpage) - a lightweight markdown parser
+* [Powerpage](https://github.com/casualwriter/powerpage) - a lightweight browser for html applications
+
+## Education & Qualifications
+
+* AWS Certification (2021/12)
+* Oracle Certified Professional (2020/02)
+* Project Management Professional (PMP) (2018/10)
+* Bachelor of Computer Science (Sep 2004)
+* The Chinese University of Hong Kong (2000 - 2004)
+
+## Misc. Information
+
+* Languages: English (good), Cantonese (fluent/native), Mandarin (good)
+* Availability: 1 month's notice
