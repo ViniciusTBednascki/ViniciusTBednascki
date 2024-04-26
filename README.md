@@ -1,6 +1,7 @@
-<img style="float:right;border-radius:50%;width:240px;padding:6px" src="https://media.licdn.com/dms/image/D4D03AQHLYK-gJT3N_w/profile-displayphoto-shrink_800_800/0/1687917341917?e=1719446400&v=beta&t=u9aOJ-YtjKJ7LwfAsBF_vhRHIxhx3-lhPRwGyYWkmsw" />
-
 <span style="float:left;padding:6px"> 
+  <img style="float:right;border-radius:50%;width:240px;padding:6px" src="https://media.licdn.com/dms/image/D4D03AQHLYK-gJT3N_w/profile-displayphoto-shrink_800_800/0/1687917341917?e=1719446400&v=beta&t=u9aOJ-YtjKJ7LwfAsBF_vhRHIxhx3-lhPRwGyYWkmsw" />
+
+
   viniciust.bednascki@gmail.com <br> mobile: +55 41 98763-8468 <br> Nationality: Brazilian
 </span>
 
