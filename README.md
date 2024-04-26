@@ -1,34 +1,30 @@
 <span style="float:left;padding:6px"> 
   <img style="float:right;border-radius:50%;width:240px;padding:6px" src="https://media.licdn.com/dms/image/D4D03AQHLYK-gJT3N_w/profile-displayphoto-shrink_800_800/0/1687917341917?e=1719446400&v=beta&t=u9aOJ-YtjKJ7LwfAsBF_vhRHIxhx3-lhPRwGyYWkmsw" />
 
-
-  viniciust.bednascki@gmail.com <br> mobile: +55 41 98763-8468 <br> Nationality: Brazilian
+  viniciust.bednascki@gmail.com <br> mobile: +55 41 98763-8468 <br> Linkedin: https://www.linkedin.com/in/vinicius-terres-bednascki/
 </span>
 
 # Software Developer  
 
 ## Executive Summary
 
-* 10 years project/team management experience
-* PMP, OCP, AWS Certification
-* Hand-on experience in oracle database
-* Proficient in JavaScript, Java, Powerbuilder
+Dynamic and results-driven professional with 5 years of experience in programming, specializing in Python, JavaScript, and SQL. Proficient in data analysis techniques, neural networks, and adept at leveraging cloud computing and AWS tools to optimize solutions. Demonstrated ability to tackle complex challenges through analytical thinking and problem-solving skills. Committed to ongoing learning and development, with a keen interest in staying abreast of emerging technologies. Currently pursuing a degree in Computer Engineering at UNIFATECPR. Fluent in English with a basic proficiency in German.
 
 ## Working Experience
 
-#### Current Company (Project Manager, 2015/08 - present) 
+#### Overview Dashboards (Full Stack Developer, 2022/03 - present) 
 
-* Lead team of 10 to oversee conception, requirement gathering, documentation and rollout.
-* Conduct troubleshooting, analysis and support. Gather user feedback, document bugs and change requests.
+* Assessment and conception, with the client, of the project's objectives and needs
+* Development of Frontend and Backend systems using Vue.js and Node.js
+* Creation of automation systems for legal processes using Node.js
+* Infrastructure implementation for automation and data processing using AWS tools
+* Continuous support for systems and applications developed
 
-#### Second Company (System Analyst, 2011/06 - 2015/07) 
+#### UFPR Fórmula SAE (Member, 2018/02 - 2019/06) 
 
-* Led team of 5 for application development
-* Coordinated with developers, support staff and vendors across Hong Kong, China, Taiwan
-
-#### My first Company (Analyst Programmer, 2005/01 - 2011/05)
-
-* Develop multiple applications using Javascript, Java, PHP, Powerbuilder, Oracle
+* Development of the car's Transmission Ratio computation program
+* Documentation on the whole manufacturing process for the competition
+* Collaboration with the transmission management in the development, manufacture and assembly of the project's components
 
 ## Projects: 
 
@@ -37,13 +33,16 @@
 
 ## Education & Qualifications
 
-* AWS Certification (2021/12)
-* Oracle Certified Professional (2020/02)
-* Project Management Professional (PMP) (2018/10)
-* Bachelor of Computer Science (Sep 2004)
-* The Chinese University of Hong Kong (2000 - 2004)
+* Complete Data Science Bootcamp (2022/10)
+* Professional Training in Software Development (2021/12)
+* SQL with Oracle's MySQL (2021/03)
+* Computer Engineering (2020 - 2024)
+* Technical Course in Mechanics at UTFPR (2013 - 2017)
 
 ## Misc. Information
 
-* Languages: English (good), Cantonese (fluent/native), Mandarin (good)
-* Availability: 1 month's notice
+* Ability to analyze and solve complex problems
+* Ability to organize and prioritize activities.
+* Experience with data analysis/processing and use of Neural Networks.
+* Experience with relational databases such as MySQL, SQL Server and PostgreSQL
+* Experience in Cloud computing using AWS tools.
