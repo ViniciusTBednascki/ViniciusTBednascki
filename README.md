@@ -1,7 +1,7 @@
 <span style="float:left;padding:6px"> 
   <img style="float:right;border-radius:50%;width:240px;padding:6px" src="https://media.licdn.com/dms/image/D4D03AQHLYK-gJT3N_w/profile-displayphoto-shrink_800_800/0/1687917341917?e=1719446400&v=beta&t=u9aOJ-YtjKJ7LwfAsBF_vhRHIxhx3-lhPRwGyYWkmsw" />
 
-  viniciust.bednascki@gmail.com <br> mobile: +55 41 98763-8468 <br> Linkedin: https://www.linkedin.com/in/vinicius-terres-bednascki/
+  E-mail: viniciust.bednascki@gmail.com <br> mobile: +55 41 98763-8468 <br> Linkedin: https://www.linkedin.com/in/vinicius-terres-bednascki/
 </span>
 
 # Software Developer  
@@ -30,14 +30,13 @@ Dynamic and results-driven professional with 5 years of experience in programmin
 
 * [Angular Material](https://github.com/ViniciusTBednascki/exercicioAngulaMaterial) - A simple site using Angular Material
 * [LocalStorage Project](https://github.com/ViniciusTBednascki/ProjetoLocalStorage) - A simple site project using local storage
-* [Linkedin Automation](https://github.com/ViniciusTBednascki/LinkedinMessageAutomation) - A Linkedin messager automation
 
 ## Education & Qualifications
 
 * Complete Data Science Bootcamp (2022/10)
 * Professional Training in Software Development (2021/12)
 * SQL with Oracle's MySQL (2021/03)
-* Computer Engineering (2020 - 2024)
+* Computer Engineering at UNIFATEC (2020 - 2024)
 * Technical Course in Mechanics at UTFPR (2013 - 2017)
 
 ## Misc. Information
