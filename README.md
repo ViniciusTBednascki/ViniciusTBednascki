@@ -1,6 +1,4 @@
-<span style="float:left;padding:6px"> 
-  <img style="float:right;border-radius:50%;width:240px;padding:6px" src="https://media.licdn.com/dms/image/D4D03AQHLYK-gJT3N_w/profile-displayphoto-shrink_800_800/0/1687917341917?e=1719446400&v=beta&t=u9aOJ-YtjKJ7LwfAsBF_vhRHIxhx3-lhPRwGyYWkmsw" />
-
+<span style="float:left;padding:6px">
   E-mail: viniciust.bednascki@gmail.com <br> Mobile: +55 41 98763-8468 <br> Linkedin: https://www.linkedin.com/in/vinicius-terres-bednascki/
 </span>
 
@@ -8,9 +6,18 @@
 
 ## Executive Summary
 
-Dynamic and results-driven professional with 5 years of experience in programming, specializing in Python, JavaScript, and SQL. Proficient in data analysis techniques, neural networks, and adept at leveraging cloud computing and AWS tools to optimize solutions. Demonstrated ability to tackle complex challenges through analytical thinking and problem-solving skills. Committed to ongoing learning and development, with a keen interest in staying abreast of emerging technologies. Currently pursuing a degree in Computer Engineering at UNIFATECPR. Fluent in English with a basic proficiency in German.
+I am a professional seeking autonomy to focus on excellence and continuous development. Always learning and updating my knowledge, I pursued new challenges in the financial market, obtaining the Autonomous Investment Agent certification to advance as an Investment Advisor.
+My role involves providing personalized guidance and support, assisting clients in protecting their assets and achieving their financial goals.
+With over 5 years of IT experience, I have been a reference for colleagues, enhancing my interpersonal communication, teamwork, and business knowledge. I have also created and maintained various programs and systems to streamline processes and improve team work quality.
 
 ## Working Experience
+
+#### Grafo Capital (Equities Head & Investment Advisor, 2023/05 - present) 
+
+* Conduct informative talks and courses on financial planning, and build trust-based relationships through exceptional service.
+* Conduct detailed consultations to understand clients' financial goals and develop personalized long-term investment strategies.
+* Perform comprehensive market analysis to identify investment opportunities and manage diversified portfolios to align with clients' objectives.
+* Implement risk mitigation strategies to protect clients' investments and ensure adherence to industry regulations and standards.
 
 #### Overview Dashboards (Full Stack Developer, 2022/03 - present) 
 
@@ -28,7 +35,7 @@ Dynamic and results-driven professional with 5 years of experience in programmin
 
 ## Projects: 
 
-* [Angular Material](https://github.com/ViniciusTBednascki/exercicioAngulaMaterial) - A simple site using Angular Material
+* [Angular Material](https://github.com/ViniciusTBednascki/exercicioAngulaMaterial) - A site using Angular Material
 * [LocalStorage Project](https://github.com/ViniciusTBednascki/ProjetoLocalStorage) - A simple site project using local storage
 
 ## Education & Qualifications
