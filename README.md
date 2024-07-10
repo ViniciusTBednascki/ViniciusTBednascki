@@ -2,7 +2,7 @@
   E-mail: viniciust.bednascki@gmail.com <br> Mobile: +55 41 98763-8468 <br> Linkedin: https://www.linkedin.com/in/vinicius-terres-bednascki/
 </span>
 
-# Software Developer  
+# Software Developer & Investiment Advisor
 
 ## Executive Summary
 
@@ -35,8 +35,9 @@ With over 5 years of IT experience, I have been a reference for colleagues, enha
 
 ## Projects: 
 
-* [Angular Material](https://github.com/ViniciusTBednascki/exercicioAngulaMaterial) - A site using Angular Material
-* [LocalStorage Project](https://github.com/ViniciusTBednascki/ProjetoLocalStorage) - A simple site project using local storage
+* [TNN (Time Neural Network)](https://colab.research.google.com/drive/1gNXA9SzJb_8h_IOdgq5Cs2RKHamM7pK6?usp=sharing) - Neural Network using Kernel Filters and Time Attention mechanism
+* [LinkedIn Automation](https://github.com/ViniciusTBednascki/LinkedinMessageAutomation) - LinkedIn Automation using Node.js Puppeteer
+* [Angular Material](https://github.com/ViniciusTBednascki/exercicioAngulaMaterial) - Site using Angular Material
 
 ## Education & Qualifications
 
